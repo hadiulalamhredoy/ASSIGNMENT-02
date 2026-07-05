@@ -1,0 +1,9 @@
+
+.drink-img {
+    height: 250px;
+    object-fit: cover;
+}
+
+.sticky-top {
+    z-index: 1020;
+}
